@@ -37,13 +37,13 @@ Lista não ordenada:
 - Terceiro item
 
 Lista de definições:
-Primeiro termo
-: Definição do primeiro termo.
 
+Primeiro termo
+: Esta é a definição do primeiro termo.
 
 Segundo termo
-: Definição de segundo termo.
-: Outra definição.
+: Esta é uma definição do segundo termo.
+: Esta é outra definição do segundo termo.
 
 Citações em bloco:
 > This is a quote
