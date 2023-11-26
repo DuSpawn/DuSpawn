@@ -36,7 +36,7 @@ Lista não ordenada:
 - Segundo item
 - Terceiro item
 
-Lista de definições:
+### Lista de definições
 
 Primeiro termo
 : Esta é a definição do primeiro termo.
