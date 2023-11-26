@@ -23,24 +23,20 @@ Títulos
 ###### Título 6
 
 Parágrafos:
-
 Este é um parágrafo
 
 Lista ordenada:
-
 1. Primeiro item
 2. Segundo item
 3. Terceiro item
 
 
 Lista não ordenada:
-
 - Primeiro item
 - Segundo item
 - Terceiro item
 
 Lista de definições:
-
 Primeiro termo
 : Definição do primeiro termo.
 
@@ -50,21 +46,19 @@ Segundo termo
 : Outra definição.
 
 Citações em bloco:
-
 > This is a quote
 
 Blocos de código:
-
-› › › › function test() {
-› › › › › › console.log("markdown");
-› › › › }
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 Regra Horizontal:
-
 ---
 
 Tabela
-
  Cabeçalho 1 | Cabeçalho 2
 ----------|----------
  Célula 11 | Célula 12  
@@ -74,7 +68,6 @@ Audacioso:
 I am **bold**
 
 itálico:
-
 I am *italic*
 
 Tachado:
