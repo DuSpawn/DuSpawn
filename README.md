@@ -36,15 +36,6 @@ Lista não ordenada:
 - Segundo item
 - Terceiro item
 
-### Lista de definições
-
-- Primeiro termo
-: Esta é a definição do primeiro termo.
-
-- Segundo termo
-: Esta é uma definição do segundo termo.
-: Esta é outra definição do segundo termo.
-
 Citações em bloco:
 > This is a quote
 
